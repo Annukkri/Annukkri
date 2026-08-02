@@ -21,16 +21,21 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Annukkri&show_icons=true&theme=tokyonight)
-## 🔥 GitHub Streak
+## 📚 Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Annukkri&theme=tokyonight)
+- 📌 C++
+- 📌 JavaScript
+- 📌 Data Structures & Algorithms
+- 📌 Git & GitHub
+
+## 📫 Connect With Me
+
+- 📧 Email: **annustmk@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/annu-kumari-56b384388**
 
 ---
 
-## 📈 Most Used Languages
+⭐ Thanks for visiting my profile!
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Annukkri&layout=compact&theme=tokyonight)
 
 ### ⭐ Thanks for visiting my profile!

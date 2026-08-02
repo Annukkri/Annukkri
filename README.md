@@ -22,9 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annukkri&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Annukkri&show_icons=true&theme=tokyonight)
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Annukkri&theme=tokyonight)
@@ -32,9 +30,7 @@
 ---
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annukkri&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
----
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Annukkri&layout=compact&theme=tokyonight)
 
 ### ⭐ Thanks for visiting my profile!

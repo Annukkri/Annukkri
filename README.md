@@ -5,7 +5,7 @@
 - 🏫 Siddaganga Institute of Technology, Tumakuru
 - 💻 Passionate about Software Development
 - 🌱 Currently learning C++, JavaScript and DSA
-- 🚀 Goal: Become an SDE
+- 🚀 Goal: Become an SDE 
 
 ---
 

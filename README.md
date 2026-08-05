@@ -19,12 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=annukumari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 ## 📚 Currently Learning
 

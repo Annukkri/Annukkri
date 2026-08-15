@@ -27,6 +27,10 @@
 - 📌 Data Structures & Algorithms
 - 📌 Git & GitHub
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Annukkri)](https://git.io/streak-stats)
+
 ## 📫 Connect With Me
 
 - 📧 Email: **annustmk@gmail.com**

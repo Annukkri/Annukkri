@@ -29,20 +29,9 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- JavaScript
-- SQL
-- C++
-- Data Structures & Algorithms
-- Git & GitHub
-
 ---
 
 ## 🚀 Projects
-
-### 🔹 JavaScript Projects
-Building small projects while strengthening my JavaScript fundamentals.
 
 ### 🔹 Web Development Projects
 Creating responsive websites using HTML, CSS and JavaScript.

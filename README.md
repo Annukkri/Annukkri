@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hey, I'm Annu Kumari</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=%3E+Hey%2C+I'm+Annu+Kumari+%F0%9F%91%8B" alt="Hey, I'm Annu Kumari" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Information+Science+Engineering+Student;Aspiring+Software+Engineer;;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Aspiring+Software+Engineer;Currently+Learning+JavaScript%2C+SQL+%26+DSA" alt="Typing SVG" />
 </p>
+
 🎓 Information Science Engineering student at **Siddaganga Institute of Technology, Tumakuru**
 
 💻 Passionate about Software Development and Problem Solving

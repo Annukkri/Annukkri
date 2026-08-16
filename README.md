@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Aspiring+Software+Engineer;Currently+Learning+JavaScript%2C+SQL+%26+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A1B9A&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Aspiring+Software+Engineer;Currently+Learning+JavaScript%2C+SQL+%26+DSA" alt="Typing SVG" />
 </p>
 
 🎓 Information Science Engineering student at **Siddaganga Institute of Technology, Tumakuru**

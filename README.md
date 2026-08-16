@@ -62,12 +62,19 @@ Working on projects that focus on real-world problems and practical solutions.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Annukkri)
-www.linkedin.com/in/annu-kumari2005
-email : annustmkgmail.com
-
+<p align="center">
+  <a href="https://github.com/Annukkri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/annu-kumari2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:annustmk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6A1B9A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ⭐ *Always learning. Always building. Always improving.*

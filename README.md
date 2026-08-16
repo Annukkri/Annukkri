@@ -1,7 +1,5 @@
-# Annu Kumari
-
-### Information Science Engineering Student | Aspiring Software Engineer
-
+<h1 align="center">👋 Hey, I'm Annu Kumari</h1>
+<h3 align="center">💻 Information Science Engineering Student | Aspiring Software Engineer</h3>
 🎓 Information Science Engineering student at **Siddaganga Institute of Technology, Tumakuru**
 
 💻 Passionate about Software Development and Problem Solving

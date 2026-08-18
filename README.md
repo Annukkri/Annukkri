@@ -27,20 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
----
-
-## 🚀 Projects
-
-### 🔹 Web Development Projects
-Creating responsive websites using HTML, CSS and JavaScript.
-
-### 🔹 Academic & Hackathon Projects
-Working on projects that focus on real-world problems and practical solutions.
-
----
-
 ## 🎯 Goals
 
 - Strengthen my programming fundamentals

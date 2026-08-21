@@ -27,15 +27,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Annukkri&show_icons=true"
-    height="180"
-    alt="Annu's GitHub Stats"
-  />
-
   <img
     src="https://streak-stats.demolab.com/?user=Annukkri"
     height="180"

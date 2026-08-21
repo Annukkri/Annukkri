@@ -27,13 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Annukkri"
-    height="180"
-    alt="Annu's GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Annukkri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📚 What I'm Interested In

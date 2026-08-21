@@ -29,16 +29,6 @@
 
 ---
 
-## 🎯 Goals
-
-- Strengthen my programming fundamentals
-- Master Data Structures & Algorithms
-- Build real-world projects
-- Improve problem-solving skills
-- Learn modern web development
-- Prepare for Software Development Engineer (SDE) roles
-
----
 
 ## 📚 What I'm Interested In
 

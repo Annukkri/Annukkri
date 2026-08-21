@@ -28,9 +28,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Annukkri&show_icons=true&theme=transparent&hide_border=true" height="180" />
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Annukkri&theme=transparent&hide_border=true" height="180" />
 </p>
 
 
